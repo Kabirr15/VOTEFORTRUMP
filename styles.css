@@ -1,0 +1,31 @@
+.profile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid black;
+ 
+  
+}
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+.img{
+  width: 700px;
+  height: 700px:
+    border-radius: 10%;
+}
+.me{
+  width: 200px;
+  height: 100px;
+}
+
+.me span{
+  font-size: 10px;
+}
